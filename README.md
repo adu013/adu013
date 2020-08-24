@@ -1,5 +1,6 @@
 ### Arindam Dutta 👋
 
+[Visit my website](http://arindamdutta.com)
 <!--
 **adu013/adu013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
