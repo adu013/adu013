@@ -1,6 +1,7 @@
 ### Arindam Dutta 👋
 
 <p>I'm a programmer and a value investor. I'm hoping to create my own Hedge Fund.</p>
+
 [Visit my website](http://arindamdutta.com)
 <!--
 **adu013/adu013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
