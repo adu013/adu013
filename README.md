@@ -1,6 +1,6 @@
 ### Arindam Dutta 👋
 
-<p>I'm a programmer and a value investor.</p>
+<p>Programmer</p>
 
 [Visit my website](http://arindam.ooo)
 <!--
