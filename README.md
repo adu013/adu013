@@ -1,7 +1,8 @@
 ### Arindam Dutta 👋
 
-Programmer
-Creator [BlackbirdJS)(blackbird.js.org)
+Software Developer
+
+Creator [BlackbirdJS](blackbird.js.org)
 
 
 [Visit my website](http://arindam.ooo)
