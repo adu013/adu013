@@ -15,6 +15,6 @@ I am a software engineer focused on building high-performance, local-first archi
 ## Connect Workspace
 
 - **Project Hub:** [aridprojects.com](https://aridprojects.com)
-- **LinkedIn:** [://linkedin.com](https://linkedin.com/in/adu013)
-- **X / Twitter:** [://x.com](https://x.com/adu013)
+- **LinkedIn:** [adu013](https://linkedin.com/in/adu013)
+- **X / Twitter:** [adu013](https://x.com/adu013)
 
