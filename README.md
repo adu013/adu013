@@ -1,5 +1,7 @@
 # Hi, I'm Arindam (ari in short) 👋
 
+[arindamdutta.com](https://arindamdutta.com) | [aridprojects.com](https://aridprojects.com)
+
 I am a software engineer focused on building high-performance, local-first architectures, and privacy-focused tools ans services.
 
 ## Main Ecosystems I Created & Maintain
@@ -10,11 +12,10 @@ I am a software engineer focused on building high-performance, local-first archi
 ## Independent Services, Utilities & Extensions
 
 - **[Time24 DAY](https://day.time24.cc)** — A simple, ultra-lightweight HTML utility to instantly parse color-coded days of the week.
-- **MatrixSpace** — A family of minimalist, cyberpunk terminal extensions for Firefox/Chrome.
+- **MatrixSpace** Family of Browser Extensions — A family of minimalist, cyberpunk themed extensions for Firefox/Chrome.
 
-## Connect Workspace
+## Connect Me @
 
-- **Project Hub:** [aridprojects.com](https://aridprojects.com)
 - **LinkedIn:** [adu013](https://linkedin.com/in/adu013)
 - **X / Twitter:** [adu013](https://x.com/adu013)
 
