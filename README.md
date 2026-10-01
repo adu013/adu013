@@ -1,24 +1,20 @@
-### Arindam Dutta 👋
+# Hi, I'm Arindam (ari in short) 👋
 
-Software Developer
+I am a software engineer focused on building high-performance, local-first architectures, and privacy-focused tools ans services.
 
-Creator [BlackbirdJS](https://blackbird.js.org)
+## Main Ecosystems I Created & Maintain
 
-Try [Firefox Extension: MatrixSpace](https://addons.mozilla.org/en-US/firefox/addon/matrixspace/)
+- **[BlackbirdJS](https://blackbirdjs.dev)** — The High-Performance, Fine-Grained, Local-First Frontend Engine built entirely on native browser standards.
+- **[Gin & Tonic](https://github.com/adu013/GinAndTonic)** — A clean, production-ready Go MVC boilerplate for the Gin Framework, pre-integrated with GORM, zero-setup SQLite, and session cookie auth.
 
+## Independent Services, Utilities & Extensions
 
-[Visit my website](http://arindam.ooo)
+- **[Time24 DAY](https://time24.cc)** — A simple, ultra-lightweight HTML utility to instantly parse color-coded days of the week.
+- **MatrixSpace** — A family of minimalist, cyberpunk terminal extensions for Firefox/Chrome.
 
-<!--
-**adu013/adu013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect Workspace
 
-Here are some ideas to get you started:
+- **Project Hub:** [aridprojects.com](https://aridprojects.com)
+- **LinkedIn:** [://linkedin.com](https://linkedin.com/in/adu013)
+- **X / Twitter:** [://x.com](https://x.com/adu013)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: x.com/adu013
-- ⚡ Fun fact: ...
--->
