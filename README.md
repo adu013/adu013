@@ -14,7 +14,7 @@ I am a software engineer focused on building high-performance, local-first archi
 - **[Time24 DAY](https://day.time24.cc)** — A simple, ultra-lightweight HTML utility to instantly parse color-coded days of the week.
 - **MatrixSpace** Family of Browser Extensions — A family of minimalist, cyberpunk themed extensions for Firefox/Chrome.
 
-## Connect Me @
+## Reach Me @
 
 - **LinkedIn:** [adu013](https://linkedin.com/in/adu013)
 - **X / Twitter:** [adu013](https://x.com/adu013)
