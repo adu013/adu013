@@ -9,7 +9,7 @@ I am a software engineer focused on building high-performance, local-first archi
 
 ## Independent Services, Utilities & Extensions
 
-- **[Time24 DAY](https://time24.cc)** — A simple, ultra-lightweight HTML utility to instantly parse color-coded days of the week.
+- **[Time24 DAY](https://day.time24.cc)** — A simple, ultra-lightweight HTML utility to instantly parse color-coded days of the week.
 - **MatrixSpace** — A family of minimalist, cyberpunk terminal extensions for Firefox/Chrome.
 
 ## Connect Workspace
