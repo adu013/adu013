@@ -19,3 +19,9 @@ I am a software engineer focused on building high-performance, local-first archi
 - **LinkedIn:** [adu013](https://linkedin.com/in/adu013)
 - **X / Twitter:** [adu013](https://x.com/adu013)
 
+## Fun Facts
+- I named **BlackbirdJS** after the SR-71 Blackbird spy plane because they are both built entirely for raw speed and minimal drag.
+- My personal project landing page runs completely on native HTML and CSS. **Zero lines of JavaScript**—ironic for someone who built a custom JS frontend engine.
+- **Gin & Tonic** was built out of pure necessity because setting up a fresh, secure Go backend should be as refreshing as the drink itself.
+
+
